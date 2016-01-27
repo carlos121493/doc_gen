@@ -1,0 +1,26 @@
+{
+  "name": "doc_gen",
+  "version": "1.0.0",
+  "description": "一个用作spm升级的功能包",
+  "main": "doc.js",
+  "bin":{
+    "doc": "doc.js"
+  },  
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlos121493/doc_gen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlos121493/doc_gen/issues"
+  },
+  "homepage": "https://github.com/carlos121493/doc_gen#readme"
+}
+  
